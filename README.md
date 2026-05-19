@@ -7,7 +7,7 @@ Static public profile website for Talim Ghor in Hatibandha, Sakhipur, Tangail.
 - `index.html`: page structure, copy, public links, and source list.
 - `styles.css`: responsive visual design.
 - `script.js`: mobile navigation, active section state, reveal effects, and image fallback behavior.
-- `assets/images/`: local copies of approved images from the official KAMPS Free Medical Camp page.
+- Public KAMPS image URLs are used directly in the page so GitHub Pages can serve the site without binary uploads.
 - `talim-ghor-website-intel.md`: research notes and claim-safety boundaries.
 
 ## Preview Locally
